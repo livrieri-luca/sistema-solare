@@ -1,0 +1,187 @@
+/* titoli */
+html{
+    margin:8px;
+    font-size: 62.5%;
+}
+body{
+background-color: azure;
+font-size:1.6rem;
+ max-width: 75ch;
+margin-left:auto;
+margin-right:auto
+
+}
+
+h1{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+h2{
+
+    color: pink;
+}
+
+p a,  figure figcaption p {
+    color:blueviolet;
+}
+
+
+
+
+.titolo-articolo {
+    color: green;
+   
+}
+
+articolo-pagina {
+    font-style: italic;
+}
+
+.citazione__blocco p{
+color: brown;
+}
+
+/* titoli */
+
+
+
+/* stille paragrafi */
+
+.figure.citazione__blockquite.citazione__blocco.citazione__paragrafo{
+    font-size: 1.8em;
+}
+
+figure blockquote p {
+    font-size: 1rem, !important;
+}
+
+figure blockquote p {
+    font-size: 2rem, !important;
+}
+
+
+/* Titolo  */ 
+
+h1#titolo-pagina.titolo-articiolo{
+    color: green;
+    font-size: 3rem;
+}
+h2 {
+    color: darkred;
+}
+
+h3{
+    color: blue;
+}
+
+/* stili pagina */
+
+
+
+
+
+
+/* illustrazione */
+
+.caption-illustrazione{
+    font-style:italic
+}
+
+h2{
+    color: red;
+}
+
+h3{
+    font-style:italic ;
+
+}
+
+/* tipografia */
+
+h2{
+    color: red
+}
+
+h3{
+    font-style: italic;
+}
+
+h1{
+    color: red;
+    font-size: 3rem;
+}
+
+/* testo */
+
+p{
+    color: dimgray;
+}
+#Immagine {
+    background-color: white;
+    border: 1px black solid;
+    padding: 20px;
+    min-width:250px;
+    width:100%;
+    max-width:1000px;
+    height:auto;
+}
+.illustrazione .caption-illustrazione    {
+    color: cadetblue;
+
+
+}
+.colori{
+    height: 600px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #dda05f;
+    background-color: rgb(156,165,211);
+ 
+}
+
+.colori h1{
+    text-align: center;
+}
+/*.introduzione{
+    min-height: 100vw;
+}*/
+
+
+#citazione__paragrafo{
+    padding: 24px;
+    /*background-color: whitesmoke;*/
+    background-image: url("sfondo.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+
+    border-radius: 8px;
+    width: 60%;
+}
+.citazione__blocco {
+    margin:0;
+    color:black;
+    font-size:1.5em;
+}
+.citazione{
+    max-width: 75ch;
+    margin-left: auto;
+   margin-right: auto;
+}
+.introduzione___pagina{
+    font-size:1.2rem; 
+}
+/*
+.primo{
+    background-color: blue;
+    width:600px;
+    height: 600px;
+
+}
+.secondo{
+    background-color: red;
+    height:50%;
+    width: 50%;
+}*/
+
